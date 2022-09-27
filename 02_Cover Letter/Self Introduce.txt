@@ -1,0 +1,49 @@
+I have a Master's degree in Computer Science  and more than 8+ years of experience in the field of embedded software development. I am confident that I have the skills and experience that you are looking for in this role.
+
+In my previous role at company, I was responsible for developing firmware and driver, application for a variety of embedded systems. I have experience with a wide range of microcontrollers and operating systems, and I am well-versed in C and C++, Python, Rust, Go, Shell.
+
+So far, I have developed many embedded devices such as wireless communication device, industrial controllers, Android Phones, Android STBs, Camera Encoders, and RF card readers.
+I have used many CPUs and SoCs from TI, Xilinx Exynos, QualCom, Allwinner, HiSilicon, MediaTek, and Amlogic in my products.
+In this process, I had a deep understanding of the CPU architecture system, peripheral interfaces, and the structure of the Linux system, and had the ability to develop any Linux programs and customize any part of the Linux system including driver development and bootloader.
+
+I will introduce my experience through one of the products I have developed.
+Two years ago I developed a Live Streaming Encoder using TI's DM8169 processor.
+This product is an embedded device for video streaming.
+The product consists of video, audio input unit, encoding unit, and stream output unit.
+The input unit receives digitized video and audio data through HDMI and SDI.
+
+I developed the video and audio input driver in this part.
+In this process, I understood about HDMI and SDI protocols, and learned how to control ICs through I2C and SPI in the Linux driver layer.
+
+The encoding unit encodes the input digital image and audio data.
+Video encoding is performed using the hardware accelerator of the DM8169 processor, and audio encoding is performed using the DSP of the DM8169 processor.
+DSP program for audio encoding was written separately.
+While developing this program, I was familiar with the hardware accelerator driving method and the TI DSP program writing method.
+
+The output unit performs the function of outputting the encoded bitstream data through UDP.
+
+Overall, through this project, I mastered the following technologies.
+- Writing Linux multithread programs
+- How to develop Linux drivers
+-Hardware accelerator driving method
+-Understanding various low-speed and high-speed, serial and parallel communication protocols including I2C, SPI, UART, USB, Ethernet, HDMI, SDI
+- Concept of RTOS
+
+As you know, most embedded software has almost the same structure.
+Therefore, I think I can meet your needs with the technology I currently have.
+Practically, I developed various embedded programs in various embedded devices.
+
+Next, I experienced how to collaborate with other members of the team.
+
+In embedded software development, cooperation is especially important than general software development.
+This is because embedded software works directly with hardware.
+With these characteristics, the software supports the hardware and the hardware supports and helps the software to complete the development.
+
+In addition, through the combination of face-to-face parts between different modules, I experienced how to work together, such as providing face-to-face parts and providing error codes.
+
+What is important in the my experience is a forward-looking attitude toward new technologies.
+In today's constantly evolving competition, learning new technologies is the only way to survive.
+I am always sensitive to new technologies and try my best to utilize them in product development.
+
+Most importantly, I am passionate about embedded software development and take great pride in my work. I am always looking for ways to improve the quality of my code and the efficiency of my development process. 
+I believe that my skills and experience would be a valuable addition to your job, and I look forward to discussing this opportunity further with you. Thank you for your time and consideration.

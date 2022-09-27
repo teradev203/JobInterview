@@ -1,0 +1,8 @@
+I am excited to be applying for the Embedded Software Engineer position at your company. I have a Master’s degree in Electrical Engineering and more than 7 years of experience in the field of embedded software development. I am confident that I have the skills and experience that you are looking for in this role.
+
+In my previous role at company, I was responsible for developing firmware and software for a variety of embedded systems. I have experience with a wide range of microcontrollers and operating systems, and I am well-versed in C and C++, Java, Python, Rust, Go, Shell.
+I'm good at CPU and SoC of several companys such as TI,  Xilinx Zynq, Exynos, QualCom, Allwinner, HiSilicon, MediaTek, Amlogic. I am also familiar with the full software development life cycle, from requirements gathering to final product testing.
+
+Most importantly, I am passionate about embedded software development and take great pride in my work. I am always looking for ways to improve the quality of my code and the efficiency of my development process. I am also a strong team player and am always willing to lend a hand when needed.
+
+I believe that my skills and experience would be a valuable addition to your company, and I look forward to discussing this opportunity further with you. Thank you for your time and consideration.
