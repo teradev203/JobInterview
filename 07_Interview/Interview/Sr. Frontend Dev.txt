@@ -1,0 +1,28 @@
+Hello My name is Akio Okamoto.
+Glad to meet you. How are you doing?
+
+I applied for the position as a full-stack based react developer in web and mobile with frontend experience. I have 7 years of experience in software development industry.
+
+In the early I started career, I worked as a php developer for 1 year and 2 years of javascript developer in Innovature company based in Japan.
+
+After that Mainly I worked as react.js full-stack developer in several country-companies, such like ITPacksPro based in US, Sigma Office based in Austrailia, and so on.
+In these companies as a frontend developer, I focused on working with React.js and for sometimes  andgular and vuejs.
+
+And also I have some experience in backend development with Nest.js and Next.js, CICD, and MySQL, Mongo - noSQL Database, GraphQL query as well, also have experience in AWS Lambda function, Cognitor, EC2, S3 such like that.
+
+And in the past 3 years I worked as a react native mobile developer for contract jobs with 2 companies GlobeForward US, Seguros in Ecuador. When it comes to my react native experience, I developed entire Mobile application for android and iOS through backend and frontend for 1 application, and the other one is for frontend development only.
+
+Nowadays, I participated in blockchain project with my friend for a contract role with web3 and solidity practice.
+
+
+
+During I have been working as a react developer, I have got a strong foundation and deep knowledge about React js and I've enhanced my skills and experience such as the functional and class components, react lifecycle, react hooks, states and props management, and also the Thunk, Redux and Redux-Saga, state management tools through many React js projects before I passed.
+And the facinations in React js that we can make the mobile application with only javascript language,
+
+What motivates me to become a react js developer is that react popularity in web development and the likes which
+ I fall in with javascript development.
+When I saw your strong react developer role in your company, I thought that I can be the best fit one for this position
+ because all I mentioned above can approve enough that I am best adequate for this position in your company with my react skills and experience. So if I get hired in your company It would be a great pleasure that I can advance my skills and learn each other from talents in your team, and also I can work fulltime for your company and all tasks I assign will be complete on time with high qualities.
+That's why I applied to this job and now is the time to have a interview with you, of course in that case of you like my background and skills.
+Looking forward to hearing from you soon.
+Thank you for your time. Bye!

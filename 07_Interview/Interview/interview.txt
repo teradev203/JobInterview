@@ -1,0 +1,145 @@
+
+Name  : Wei Chen	
+Country : Hong Kong
+Home address : 62 Johnstone Rd, Wan Chai.
+Phone number : 12707044200
+birth : 1995 4 22
+27 years.
+developement experience : 6 years.
+
+
+1.introduce myself.
+
+My name is Wei Chen from Hong Kong.
+Ever since I was little, I wanted to be the best programmer.
+That time, my mother had oppose insistently my determination.
+But, I had became finally a programmer with my father help.
+So, I went to Hong Kong University of Science and Technology to learn coding for 4 years.
+I got my bachelor's degree from this university.
+==================================================== == ==============
+Firstly, after graduating from university, I got a job at Vensafe Technology Limited in Hong Kong based on 4 years of experience and skills.
+Here, as a full stack developer, I have been involved in building many projects using the MERN stack.
+I worked for this company for 1 year.
+
+After working here for a year, I got a job as a Frontend developer for a Consultant company in Aresto's.
+I used MEAN stack mainly for this company to build CMS and other projects.
+So far, I've been working mostly alone as a full-stack developer.
+When I was developing the KaanaShop project recently, I really felt rewarded and learned a lot while working with my teammates.
+For example joined building shopping sites like KaanaShopping with MEAN stack.
+The team have gived the task to strong entire project 's secure specially and newly and to make responsive frontend .
+For me, The frontend wasn't problem, but The secure problem was a challenge.
+So about the administrator authentication,  I thought I am going to solve the login with Duopush and temporary password.
+For a few days, I have researched about it and implemented it.
+It's fast and easy to log in securely with Duo Push, the more secure method of two-factor authentication supported by Duo Mobile. 
+After logging in with username and password, users can choose Duo Push on the authentication prompt. 
+Then, they can simply tap 'Approve' on the push notification they'll receive on their phone seconds later to securely access their application.
+I have solved the API about this process using Node.js and Express.js
+As a result, project 's secure is  more stronger than before.
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+My skills are
+as a frontend Angular.js React.js React-Redux, Vue, Next, Responsive Web Design.
+as a backend Node, PHP, Express, Laravel.
+as a database mysql, mongodb.
+My top skill is MERN stack and MEAN stack.
+I am confident that I have the skills and experience that would make me the perfect candidate for this position. 
+I would be grateful for the opportunity to discuss this further with you in an interview. 
+Thank you for your time and consideration.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*************************************************************************
+
+**What Kind of Culture Do You Want to Work In?()**
+I’d like to work in a company culture that’s collaborative and supportive of employees, 
+and encourages great communication.
+I also prefer a less-bureaucratic structure where new ideas can be implemented quickly, 
+and where managers act as role models rather than just top-down leaders.
+
+**************************************************************************
+
+What is Your Ideal Company Culture?()
+My ideal company culture is an environment where people are free to express ideas and opinions, 
+and where everyone collaborates instead of competing. 
+It’s a work environment that rewards employees for being distinctive individuals who bring unique ideas and perspectives. 
+I’m also passionate about self-improvement and professional development, 
+so I’d love to find a company that encourages employees to continue learning, 
+getting certifications, and picking up new skills.
+
+******************************************************************************
+
+
+*********************************************************************************
+
+2. How did you learn about this position?
+
+After following your page for a while, I found out about your position.
+I am really passionate about what you are doing in web technology.
+So I applied. The skills I have and the skills I need match well. 
+It seems like a great opportunity to contribute to your mission and a great next step for my career.
+
+
+3. What type of work environment do you prefer?
+
+I like fast-paced work environments because they make me feel like I’m always learning and growing, 
+but I like collaborating with team members and helping people reach a collective goal as opposed to competing.
+
+
+4. How do you deal with pressure or stressful situations?
+
+I realize stressful situation are always going to come up, 
+and I definitely have had to learn how to navigate them throughout my career. 
+I think I get better at it with every new experience. 
+While working on a new product launch at my last company, 
+for example, things were not going according to plan with my team. 
+Instead of pointing fingers, my first reaction was to take a step back 
+and I figured out some strategies around how we could we solve the problem at hand. 
+Previously, I may have defaulted to panicking in that situation, 
+so being calm and collected was definitely a step forward and helped me approach the situation with more clarity.
+
+
+
+5. Do you prefer working independently or on a team?
+
+both.
+I like having a team to reach out to for help. 
+But I am also comfortable taking on assignments that require me to work independently. 
+I find I do some of my best work when I can focus alone in a quiet space, 
+but I really value collaborating with my teammates to come up with the best ideas.
+
+
+
+7. What did you do in the last year to improve your knowledge?
+
+I read a lot of books to keep abreast of the latest ideas in my field, 
+and sharpened my skills by taking some online courses.
+
+
+8. What are your salary expectations?
+
+Based on my skills and experience and on the current industry rates, I’m looking at a salary around 60k dollars per year.
+
+
+9. Are you applying for other jobs?
+
+In fact I’ve applied to a couple of other jobs.
+ But I will select your job, because I like that I work with your company.
+
+10.  visa status?
+I am living in Hong Kong and have a Hong Kong visa.
+Currently I don't have any work authenzation for work in USA.
+So I will work remotely.
+If you want relocate, I can relocate in 6months.
+For 5-6months, I will work remotely. 
+
+-----
+The reason why I retired is because of COVID-19.
+Becase COVID-19, we can't work all together in company.
+So We have worked with remote.
+But that time,  because my house had a problem, I couldn't work.
+So automotically I was retired in company.
+-----
+
+In there, I have worked with 1 year contract.
+
+-----
